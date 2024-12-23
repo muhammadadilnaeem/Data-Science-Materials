@@ -1,0 +1,11 @@
+python-dotenv
+ipykernel
+openpyxl
+numpy
+pandas
+matplotlib
+seaborn
+plotly
+scikit-learn
+xgboost
+catboost
