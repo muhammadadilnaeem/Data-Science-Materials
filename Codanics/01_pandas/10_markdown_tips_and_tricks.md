@@ -12,7 +12,7 @@
 [6. Bullet Points](#6-bullet-points)\
 [7. Line Breaks or Page Breaks](#7-line-breaks-or-page-breaks)\
 [8. Links and Hyperlinks](#8-links-and-hyperlinks)\
-[9. Images and Figures with link](#9-images-and-figures-with-link)\
+[9. Images and Vedio with link](#9-images-and-figures-with-link)\
 [10. To Add Code](#10-to-add-code)\
 [11. To Add Tables](#11-to-add-tables)\
 [12. Use Extetions](#12-use-extetions)
@@ -148,6 +148,10 @@ or
 - To embed image with link use `[![Vedio Label](image path)](link)`
 
 [![Markdown Video](../images/Markdown.jpg)](https://youtu.be/qJqAXjz-Rh4)
+
+- To embed a video in Markdown, you typically can't do it directly, as standard Markdown does not support video embedding. However, you can use HTML within your Markdown document to embed videos from platforms like YouTube or Vimeo.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qJqAXjz-Rh4?si=lh0HjnEnzLG3hXGj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
