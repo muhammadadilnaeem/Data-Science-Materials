@@ -9,3 +9,6 @@ plotly
 scikit-learn
 xgboost
 catboost
+ydata-profiling
+sweetviz
+skimpy
