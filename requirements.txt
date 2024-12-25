@@ -12,3 +12,6 @@ catboost
 ydata-profiling
 sweetviz
 skimpy
+dtale
+kaleido
+dataprep
